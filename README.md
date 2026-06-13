@@ -135,7 +135,6 @@ The Project File/
 ---
 ## 10. Installation & Usage
 **Clone the repository:** git clone [https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026.git](https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026.git)
-cd Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026
 
 **Install dependencies:** pip install -r requirements.txt
 
