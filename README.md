@@ -9,13 +9,7 @@
 
 > **🎓 Academic Acknowledgment:** > This project was researched, engineered, and submitted as the Final Assignment for **The Global Consumer Intelligence (GCI) World 2026 Program**, conducted by the **Matsuo - Iwasawa Laboratory, University of Tokyo**.
 
-<div align="left">
-  <img src="GCI.jpg", width="400"/>
-</div>
-
-<div align="right">
-  <img src="UT.png" width="400"/>
-</div>
+![Image_Alt](https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026/blob/6cccae78525d241503035a98ee9f8cf257f4f61a/GCI.jpg)width="400" ![Image_Alt](https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026/blob/529155b967d5a0cc39ff8a9851c6963db65ed861/UT.png)width="400"
 ---
 
 ## 📑 Table of Contents
