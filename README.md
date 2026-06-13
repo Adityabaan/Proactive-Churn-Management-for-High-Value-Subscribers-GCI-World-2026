@@ -114,9 +114,49 @@ By ignoring reliable customers and targeting only the AI-flagged high-risk cohor
 
 ## 9. Repository Structure
 ```text
-├── assets/                   # Contains high-res images for README
-├── data/                     # (Ignored) Place Client.csv & Record.csv here
-├── notebooks/
-│   └── GCI_Final_Assignment.ipynb  # Core ML Pipeline & Business Simulation
-├── README.md                 # Project Documentation
-└── requirements.txt          # Python dependencies
+The Project File/
+├── telecom/
+│   ├── Client.csv
+│   ├── Record.csv.zip
+│   ├── ENG_Company_A_Dataset_Overview.docx
+│   ├── Proactive Churn Management for High-Value Subscribers.ipynb
+│   ├── README.docx
+│   └── tutorial.ipynb
+├── assets/
+│   ├── churn_baseline.png
+│   ├── equipment_fatigue.png
+│   ├── feature_importance.png
+│   └── roi_dashboard.png
+├── GCI.jpg
+├── LICENSE
+├── README.md
+└── UT.png
+```
+---
+## 10. Installation & Usage
+**Clone the repository:** git clone [https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026.git](https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026.git)
+cd Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026
+
+**Install dependencies:** pip install -r requirements.txt
+
+**Add the Datasets:** Please read the tutorial.ipynb file to get a complete understanding of how to use the datasets.
+
+---
+
+## 🙌 Credits
+
+- **Developed for:** Global Consumer Intelligence (GCI) World 2026
+- **Organized by:** Matsuo-Iwasawa Laboratory, University of Tokyo
+- **Made by:** Adityabaan Tripathy
+---
+
+## 📬 Contact
+
+For queries or collaborations:
+- 📧 Email: [adityabaantripathy@gmail.com](mailto:adityabaant@gmail.com)  
+- 🌐 LinkedIn: [Adityabaan Tripathy](https://www.linkedin.com/in/adityabaan-tripathy-6b245323b/)  
+- 🐙 GitHub: [Adityabaan Tripathy](https://github.com/Adityabaan)  
+
+---
+
+
