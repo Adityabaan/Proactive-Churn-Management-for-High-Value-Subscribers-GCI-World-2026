@@ -9,8 +9,8 @@
 
 > **🎓 Academic Acknowledgment:** > This project was researched, engineered, and submitted as the Final Assignment for **The Global Consumer Intelligence (GCI) World 2026 Program**, conducted by the **Matsuo - Iwasawa Laboratory, University of Tokyo**.
 
-<div align="left">
-  <img src="GCI.jpg" alt="Equipment Age vs Flight Risk" width="400"/>
+<div align="left","right">
+  <img src="GCI.jpg","UT.png" width="400"/>
 </div>
 
 ---
