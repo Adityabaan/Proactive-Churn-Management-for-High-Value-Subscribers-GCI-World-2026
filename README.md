@@ -11,8 +11,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026/blob/6cccae78525d241503035a98ee9f8cf257f4f61a/GCI.jpg" width="300"></td>
-    <td><img src="https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026/blob/529155b967d5a0cc39ff8a9851c6963db65ed861/UT.png" width="300"></td>
+    <td><img src="https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026/blob/6cccae78525d241503035a98ee9f8cf257f4f61a/GCI.jpg" width="500"></td>
+    <td><img src="https://github.com/Adityabaan/Proactive-Churn-Management-for-High-Value-Subscribers-GCI-World-2026/blob/529155b967d5a0cc39ff8a9851c6963db65ed861/UT.png" width="500"></td>
   </tr>
 </table>
 ---
